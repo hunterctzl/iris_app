@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi.response import StreamingResponse
+from fastapi.responses import StreamingResponse
 
 app = FastAPI()
 
